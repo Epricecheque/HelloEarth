@@ -1,0 +1,5 @@
+var nickel =.05
+var dime = .10;
+var quarter =.25;
+
+method coinCount
